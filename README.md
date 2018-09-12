@@ -10,3 +10,6 @@ The ephemeral repository contains shared resources for the simulation and operat
 
 ![keyvisual](/src/main/resources/eth/marketing/keyvisual.png)
 
+### Simulation scenarios
+
+![localization](/src/main/resources/simulation/s4/render.png)
